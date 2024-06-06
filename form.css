@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.header1{
+    color: white;
+    background: orange;
+    width:50% ;
+    margin-left: 25%;
+    padding: 10px;
+    
+    
+}
+
+.body{
+    width: 50%;
+    margin-left: 27%;
+}
+.date-birth{
+    /* width: 15px; */
+    /* float: left; */
+   
+}
+.select1,.select2,.select3{
+    float: left;
+   
+   
+}
+#fstname{
+    margin-left: 20px;
+    
+}#datebirth{
+    float: left;
+    /* background: aqua; */
+}
+.selectgender{
+    /* float: left; */
+    /* background: yellow; */
+}
+/* .female,.male{
+    float: left;
+} */
